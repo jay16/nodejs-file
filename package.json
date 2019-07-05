@@ -1,7 +1,7 @@
 {
-  "name": "intfocus-wxmp",
+  "name": "nodejs-fs",
   "version": "1.0.0",
-  "description": "文件写出写入测试",
+  "description": "文件操作练习",
   "author": "jay16 <jay_li@intfocus.com>",
   "private": true,
   "scripts": {
@@ -19,8 +19,7 @@
     "glob": "7.1.2",
     "relative": "3.0.2",
     "rimraf": "2.6.0",
-    "semver": "5.3.0",
-    "shelljs": "0.8.1"
+    "mkdirp": "0.5.1"
   },
   "engines": {
     "node": ">= 4.0.0",
